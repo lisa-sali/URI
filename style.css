@@ -2,7 +2,6 @@
 
 body{
     background-image: url(./img/body-background.jpg);
-    background-attachment: fixed;
     background-size: cover;
     background-position: center;
     margin: 0;
@@ -11,7 +10,6 @@ body{
 @media screen and(max-width:768px) {
     body{
         background-image: url(./img/body-background768.png);
-        background-attachment: fixed;
         background-size: cover;
         background-position: center;
         margin: 0;
